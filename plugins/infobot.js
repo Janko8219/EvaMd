@@ -19,7 +19,7 @@ ${gy} Library : *Baileys-MD*
 ${gy} Language : *Javascript*
 ${gy} Database : *MongoDB*
 ${gy} Version : *${versibot}*
-${gy} Developer : *@919539102851*
+${gy} Developer : *@918590822912*
 ${gy} Runtime : *${runtime}*
 ${gy} Prefix : *Multi Prefix 「 ${usedPrefix} 」*
 ${gy} Mode : *${global.opts['self'] ? 'Self' : 'Public'}*
@@ -28,7 +28,7 @@ ${gy} Register : *${userdaftar}*
 ${sb}
 `.trim()
 var as = `Date : ${week}, ${date}\nTime : ${a} (IST)`
-     conn.sendBL(m.chat, infonyacok, as, global.fla + `${command}`, [[`SC Bot`, `${usedPrefix}sc`], [`Menu`, `${usedPrefix}menu`]], m,        
+     conn.sendBL(m.chat, infonyacok, as, global.fla + `${command}`, [[`INSTAGRAM`, `${usedPrefix}sc`], [`Menu`, `${usedPrefix}menu`]], m,        
            {mentions: ['919539102851@s.whatsapp.net']})
 
 }
