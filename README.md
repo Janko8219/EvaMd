@@ -14,4 +14,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 heroku/nodejs
 ```
 
-[! [![[Deploy] Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Janko8219/EvaMd/)
+[![[Deploy] Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Janko8219/EvaMd/)
+
+## `Scan QR Code For Session`
+[![EvaMd](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Alien-Alfa/ALIEN-ALFA-BOT-MD?v=1#package.json)
