@@ -20,7 +20,7 @@ let handler = async (m, { conn, usedPrefix, command, args }) => {
     res = await tts(text)
   } finally {
   if(res) conn.sendFile(m.chat, res, 'tts.opus', null, fkonn, true) 
-   else return m.reply(`where is the text?\n\nExample: *${usedPrefix}${command} Eva By SudoAnirudh*`)
+   else return m.reply(`where is the text?\n\nExample: *${usedPrefix}${command} Rolex By Munavir*`)
   }
 }
 handler.help = ['tts <lang> <teks>']
